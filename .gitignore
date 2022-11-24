@@ -1,1 +1,3 @@
-data/
+data/reduced_data.csv
+data/en.openfoodfacts.org.products.csv
+data/clean_recipes.csv
